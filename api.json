@@ -1,0 +1,167 @@
+{
+  "banner": [
+    "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png",
+    "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png",
+    "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Cat1",
+      "color": "#fbc831",
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "id": 2,
+      "name": "Cat2",
+      "color": "#9fd236",
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+    },
+    {
+      "id": 3,
+      "name": "Cat3",
+      "color": "orange",
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+    },
+    {
+      "id": 4,
+      "name": "Cat4",
+      "color": "#f2f2f2",
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+    }
+  ],
+  "food": [
+    {
+      "name": "Prod1",
+      "price": 24,
+      "categorie": 1,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod2",
+      "price": 20,
+      "categorie": 1,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+    },
+    {
+      "name": "Prod3",
+      "price": 21,
+      "categorie": 1,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod4",
+      "price": 22,
+      "categorie": 1,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+    },
+    {
+      "name": "Prod5",
+      "price": 26,
+      "categorie": 1,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+    },
+    {
+      "name": "Prod6",
+      "price": 25,
+      "categorie": 1,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod7",
+      "price": 16,
+      "categorie": 2,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod8",
+      "price": 16,
+      "categorie": 2,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod9",
+      "price": 16,
+      "categorie": 2,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod10",
+      "price": 16,
+      "categorie": 2,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod11",
+      "price": 16,
+      "categorie": 1,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod12",
+      "price": 16,
+      "categorie": 2,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod13",
+      "price": 14,
+      "categorie": 3,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+    },
+    {
+      "name": "Prodd14",
+      "price": 14,
+      "categorie": 3,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod15",
+      "price": 13,
+      "categorie": 3,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod16",
+      "price": 16,
+      "categorie": 3,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod17",
+      "price": 12,
+      "categorie": 3,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod18",
+      "price": 18,
+      "categorie": 3,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod19",
+      "price": 2,
+      "categorie": 4,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod20",
+      "price": 2,
+      "categorie": 4,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod21",
+      "price": 2,
+      "categorie": 4,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    },
+    {
+      "name": "Prod22",
+      "price": 2,
+      "categorie": 4,
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
+    }
+  ]
+}
