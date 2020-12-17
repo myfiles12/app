@@ -21,13 +21,13 @@
       "id": 3,
       "name": "Cat3",
       "color": "orange",
-      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
     },
     {
       "id": 4,
       "name": "Cat4",
       "color": "#f2f2f2",
-      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
     }
   ],
   "food": [
@@ -41,7 +41,7 @@
       "name": "Prod2",
       "price": 20,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
     },
     {
       "name": "Prod3",
@@ -53,13 +53,13 @@
       "name": "Prod4",
       "price": 22,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
     },
     {
       "name": "Prod5",
       "price": 26,
       "categorie": 1,
-      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
     },
     {
       "name": "Prod6",
@@ -107,7 +107,7 @@
       "name": "Prod13",
       "price": 14,
       "categorie": 3,
-      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.pngg"
+      "image": "https://raw.githubusercontent.com/myfiles12/app/master/favicon.png"
     },
     {
       "name": "Prodd14",
